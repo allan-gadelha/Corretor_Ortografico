@@ -4,4 +4,6 @@
  
  //-----------------------------------------------------------------------------------------------------------//
  
+ English Comment: https://github.com/allan-gadelha/Corretor_Ortografico/tree/English_Comment
+ 
  Designing a Spell Checker Using 3 Different Distance Calculations, Euclidean, Angular and Levenshtein, with NumPy and Pandas Libraries
